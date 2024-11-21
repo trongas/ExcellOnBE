@@ -33,7 +33,7 @@ Install dependencies:
 npm install
 Start the development server:
 npm start
-Access the API documentation or endpoints at http://localhost:3000.
+Access the API documentation or endpoints at http://localhost:4200/admin.
 ### Features
 Dashboard: Visualize key business metrics and analytics.
 Department Management: Manage departments effectively.
