@@ -19,7 +19,6 @@
 ![Payment](https://github.com/user-attachments/assets/bdb25564-ad21-47da-b710-c29a80c89d9f)
 
 ### Chat
-![Chat 1](https://github.com/user-attachments/assets/fe18cb9f-182d-41c2-b780-98c00376e041)
 ![Chat 2](https://github.com/user-attachments/assets/397dc937-e203-407d-9a15-345a2fe0521d)
 
 ---
@@ -27,8 +26,8 @@
 ## How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/your-repository-url.git
-Navigate to the project directory:
+](https://github.com/trongas/ExcellOnBE.git
+)Navigate to the project directory:
 cd excellon-be
 Install dependencies:
 npm install
